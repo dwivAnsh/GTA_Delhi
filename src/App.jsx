@@ -237,7 +237,7 @@ const App = () => {
                       Download Now
                     </button>
                   </div>
-                </div>
+                </div>  
               </div>
             </div>
         </ScrollProvider>
